@@ -38,7 +38,7 @@
     {
       "name": "Grocery Shopping",
       "periodicity": "weekly",
-      "created": "2025-09-01",
+      "created": "2025-08-01",
       "completed_dates": [
         "2025-08-31",
         "2025-09-07",
@@ -49,10 +49,12 @@
     {
       "name": "Call Parents",
       "periodicity": "weekly",
-      "created": "2025-09-01",
+      "created": "2025-08-01",
       "completed_dates": [
-        "2025-08-31",
-        "2025-09-14"
+        "2025-08-01",
+        "2025-08-08",
+        "2025-08-15",
+        "2025-08-22"
       ]
     },
     {
